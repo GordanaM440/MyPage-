@@ -1,0 +1,75 @@
+body {
+  padding-top: 56px;
+  line-height: 1.7;
+  background: white;
+  color: black;
+}
+.navbar-custom { 
+background-color: #000000 !important; 
+}
+.btn-custom  {
+background-color: #000000 !important;
+border:none;
+}
+.tab-custom {
+background-color: #000000 !important;
+}
+#brand-pic{
+height:40px;
+}
+
+.carousel-item {
+  height: 75vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn-custom  {
+background-color: #000000 !important;
+}
+.job-search .btn {
+  height: 47px; }
+
+.job-search > ul {
+  position: relative;
+  z-index: 1;
+  top: 20px; }
+  .job-search > ul a {
+    text-transform: uppercase;
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: .1em; }
+
+.job-search .tab-content {
+  position: relative;
+  z-index: 2; }
+  
+  .portfolio-item {
+  margin-bottom: 30px;
+}
+
+.footer-custom{
+background-color: #000000 !important;
+}
+
+
+.class{
+  z-index: 1; /* integer */
+}
+
+
+
+
+
+
+
+
+
+
+ 
+

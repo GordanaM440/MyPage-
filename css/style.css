@@ -1,0 +1,148 @@
+body {
+  padding-top: 56px;
+  line-height: 1.7;
+  background: white;
+  color: black;
+}
+.navbar-custom { 
+background-color: #000000 !important; 
+}
+.btn-custom  {
+background-color: #000000 !important;
+border:none;
+}
+.tab-custom {
+background-color: #000000 !important;
+}
+#brand-pic{
+height:40px;
+}
+
+.carousel-item {
+  height: 75vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn-custom  {
+background-color: #000000 !important;
+}
+.job-search .btn {
+  height: 47px; }
+
+.job-search > ul {
+  position: relative;
+  z-index: 1;
+  top: 20px; }
+  .job-search > ul a {
+    text-transform: uppercase;
+    color: #000;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: .1em; }
+
+.job-search .tab-content {
+  position: relative;
+  z-index: 2; }
+  
+  .portfolio-item {
+  margin-bottom: 30px;
+}
+
+.footer-custom{
+background-color: #000000 !important;
+}
+
+
+.class{
+  z-index: 1; /* integer */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #42B32F;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #42B32F;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
